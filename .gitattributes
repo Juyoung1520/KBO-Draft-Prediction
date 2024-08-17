@@ -1,0 +1,4 @@
+및 filter=lfs diff=lfs merge=lfs -text
+과제 filter=lfs diff=lfs merge=lfs -text
+코드/5차_실습코드.ipynb filter=lfs diff=lfs merge=lfs -text
+실습 filter=lfs diff=lfs merge=lfs -text
